@@ -1,9 +1,6 @@
 [package]
-name = "rp2040-sync"
+name = "rp2040sync"
 version = "0.1.0"
-authors = ["Borja García <user@server>"]
-edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Borja García <debuti@gmail.com>"]
 
 [dependencies]
